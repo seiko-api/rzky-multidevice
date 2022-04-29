@@ -11,7 +11,7 @@
 
 <a href="https://chat.whatsapp.com/HJonYuPOQk4DO6bmQ5Naru"> <img src="https://img.shields.io/badge/whatsapp-Support_Group-blue?style=social&logo=whatsapp" alt="support" /></a>
 
-> Dibuat dengan Baileys dan Map() ( sebagai command handler ) <br />
+> Dibuat dengan Baileys dan Map(0) ( sebagai command handler ) <br />
 
 </div><br />
 <br />
